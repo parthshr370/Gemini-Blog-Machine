@@ -66,8 +66,8 @@ Gemini Blog Machine is an AI assistant that helps you create professional blog p
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/blog-machine.git
-   cd blog-machine
+   git clone https://github.com/parthshr370/Gemini-Blog-Machine
+   cd Gemini-Blog-Machine
    ```
 
 2. Ensure your AI assistant has access to:
